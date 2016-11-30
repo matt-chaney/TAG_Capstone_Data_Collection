@@ -1,0 +1,6 @@
+TODO / Future refinements list
+
+Download files to ./data instead of source root
+Check if file exists locally before downloading
+    use existing files by default, prompt to replace
+Fix year regex to not match (or fail on) Metros.xlsx
